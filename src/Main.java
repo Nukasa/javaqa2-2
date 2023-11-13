@@ -18,6 +18,6 @@ public class Main {
         } else {
             bonus = 0;
         }
-        System.out.println("итог:"+bonus );
+        System.out.println("итог:"+ bonus );
     }
 }
